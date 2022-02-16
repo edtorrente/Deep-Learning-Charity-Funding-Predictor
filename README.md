@@ -58,7 +58,9 @@ Optimize your model in order to achieve a target predictive accuracy higher than
 
 * Adjusting the input data to ensure that there are no variables or outliers that are causing confusion in the model, such as:
   * Dropping more or fewer columns.
+  
   ![columns.jpg](Images/columns.jpg)
+  
 * Adding more neurons to a hidden layer.
   ![neurons.jpg](Images/neurons.jpg)
 * Adding more hidden layers.
