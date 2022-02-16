@@ -58,11 +58,9 @@ Optimize your model in order to achieve a target predictive accuracy higher than
 
 * Adjusting the input data to ensure that there are no variables or outliers that are causing confusion in the model, such as:
   * Dropping more or fewer columns.
-  
 ![columns](https://github.com/edtorrente/Deep-Learning-Charity-Funding-Predictor/blob/main/Images/columns.JPG)
-  
 * Adding more neurons to a hidden layer.
-  ![neurons.jpg](Images/neurons.jpg)
+ ![neurons.jpg](https://github.com/edtorrente/Deep-Learning-Charity-Funding-Predictor/blob/main/Images/neurons.JPG)
 * Adding more hidden layers.
   ![layers.jpg](Images/layers.jpg)
 * Using different activation functions for the hidden layers.
