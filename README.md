@@ -86,13 +86,13 @@ The report should contain the following:
 
 2. **Results**: Using bulleted lists and images to support your answers, address the following questions.
 
-*Initial Optimization Results:
+Initial Optimization Results:
 ![initial.jpg](Images/initial.jpg)
 ---
-*Attempt1-Dropping more columns:
+Attempt1-Dropping more columns:
 ![attempt1.jpg](Images/attempt1.jpg)
 ---
-*Attempt2: Add neurons to hidden layers and add more layers.:
+Attempt2: Add neurons to hidden layers and add more layers.:
 ![attempt2.jpg](Images/attempt2.jpg)
 ---
 Attempt3: Change activation layer at the output to "tanh".:
