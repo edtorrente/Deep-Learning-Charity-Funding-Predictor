@@ -89,7 +89,7 @@ The report should contain the following:
 Initial Optimization Results:
 ![initial.jpg](https://github.com/edtorrente/Deep-Learning-Charity-Funding-Predictor/blob/main/Images/initial.JPG)
 ---
-Attempt1-Dropping more columns:
+Attempt1: Dropping more columns:
 ![attempt1.jpg](https://github.com/edtorrente/Deep-Learning-Charity-Funding-Predictor/blob/main/Images/attempt1.JPG)
 ---
 Attempt2: Add neurons to hidden layers and add more layers.:
