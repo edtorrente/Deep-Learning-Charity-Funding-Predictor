@@ -62,11 +62,11 @@ Optimize your model in order to achieve a target predictive accuracy higher than
 * Adding more neurons to a hidden layer.
  ![neurons.jpg](https://github.com/edtorrente/Deep-Learning-Charity-Funding-Predictor/blob/main/Images/neurons.JPG)
 * Adding more hidden layers.
-  ![layers.jpg](Images/layers.jpg)
+ ![layers.jpg](https://github.com/edtorrente/Deep-Learning-Charity-Funding-Predictor/blob/main/Images/layers.JPG)
 * Using different activation functions for the hidden layers.
-  ![activation.jpg](Images/activation.jpg)
+ ![activation.jpg](https://github.com/edtorrente/Deep-Learning-Charity-Funding-Predictor/blob/main/Images/activation.JPG)
 * Adding or reducing the number of epochs to the training regimen.
-  ![epochs.jpg](Images/epochs.jpg)
+ ![epochs.jpg](https://github.com/edtorrente/Deep-Learning-Charity-Funding-Predictor/blob/main/Images/epochs.JPG)
 
 **NOTE**: You will not lose points if your model does not achieve target performance, as long as you make three attempts at optimizing the model in your jupyter notebook.
 
