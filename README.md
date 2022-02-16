@@ -87,16 +87,16 @@ The report should contain the following:
 2. **Results**: Using bulleted lists and images to support your answers, address the following questions.
 
 Initial Optimization Results:
-![initial.jpg](Images/initial.jpg)
+![initial.jpg](https://github.com/edtorrente/Deep-Learning-Charity-Funding-Predictor/blob/main/Images/initial.JPG)
 ---
 Attempt1-Dropping more columns:
-![attempt1.jpg](Images/attempt1.jpg)
+![attempt1.jpg](https://github.com/edtorrente/Deep-Learning-Charity-Funding-Predictor/blob/main/Images/attempt1.JPG)
 ---
 Attempt2: Add neurons to hidden layers and add more layers.:
-![attempt2.jpg](Images/attempt2.jpg)
+![attempt2.jpg](https://github.com/edtorrente/Deep-Learning-Charity-Funding-Predictor/blob/main/Images/attempt2.JPG)
 ---
 Attempt3: Change activation layer at the output to "tanh".:
-![attempt3.jpg](Images/attempt3.jpg)
+![attempt3.jpg](https://github.com/edtorrente/Deep-Learning-Charity-Funding-Predictor/blob/main/Images/attempt3.JPG)
 
 
   * Data Preprocessing
