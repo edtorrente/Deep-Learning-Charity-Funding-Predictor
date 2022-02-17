@@ -113,6 +113,7 @@ Attempt2: Add neurons to hidden layers and add more layers.:
 	**LAYERS = 3**
 	**ACTIVIATION FUNCTIONS: RELU, SIGMOID, TANH**
     * Were you able to achieve the target model performance?
+    ---
 	**As indicated above, the process did NOT achieve the target=75% performance.**
     * What steps did you take to try and increase model performance?
 	** Increase epochs**
