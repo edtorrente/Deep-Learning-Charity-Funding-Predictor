@@ -100,21 +100,31 @@ Attempt2: Add neurons to hidden layers and add more layers.:
 
 
   * Data Preprocessing
-    * What variable(s) are considered the target(s) for your model?
+    * What variable(s) are considered the target(s) for your model? 
+	**IS_SUCCESSFUL**
     * What variable(s) are considered to be the features for your model?
+	**APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT,**
+	**SPECIAL_CONSIDERATIONS, ASK_AMT**
     * What variable(s) are neither targets nor features, and should be removed from the input data?
+	**EIN, NAME**
   * Compiling, Training, and Evaluating the Model
     * How many neurons, layers, and activation functions did you select for your neural network model, and why?
+	**NEURONS <= 100**
+	**LAYERS = 3**
+	**ACTIVIATION FUNCTIONS: RELU, SIGMOID, TANH**
     * Were you able to achieve the target model performance?
+	**As indicated above, the process did NOT achieve the target=75% performance.**
     * What steps did you take to try and increase model performance?
+	** Increase epochs**
+	** Add more features to be dropped.**
+	** Change Activation functions.**
 
 3. **Summary**: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
 
+	**Deeep Neural Network is used for this classification model. The goal was to predict loan applicant success from charity_data.csv with 73% accuracy. This does NOT meet the 75% accuracy target.**
+
+	**Since this is a classification problem, one can try Random Forest classifier. Also, this use case may beideal since this is a binary classification problem that can handle 2 hidden layers with less parameters to 
+	optimize**
+
 - - -
 
-## Rubric
-
-[Unit 21 - Deep Learning Homework Rubric - Charity Funding Predictor](https://docs.google.com/document/d/1SLOROX0lqZwa1ms-iRbHMQr1QSsMT2k0boO9YpFBnHA/edit?usp=sharing)
-
-___
-© 2021  Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.	
