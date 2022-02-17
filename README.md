@@ -57,7 +57,7 @@ Using your knowledge of TensorFlow, optimize your model in order to achieve a ta
 Optimize your model in order to achieve a target predictive accuracy higher than 75% by using any or all of the following:
 
 * Adjusting the input data to ensure that there are no variables or outliers that are causing confusion in the model, such as:
-  * Dropping more or fewer columns.
+* Dropping more or fewer columns.
 ![columns](https://github.com/edtorrente/Deep-Learning-Charity-Funding-Predictor/blob/main/Images/columns.JPG)
 * Adding more neurons to a hidden layer.
  ![neurons.jpg](https://github.com/edtorrente/Deep-Learning-Charity-Funding-Predictor/blob/main/Images/neurons.JPG)
