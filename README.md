@@ -116,9 +116,9 @@ Attempt2: Add neurons to hidden layers and add more layers.:
     ---
 	**As indicated above, the process did NOT achieve the target=75% performance.**
     * What steps did you take to try and increase model performance?
-	** Increase epochs
-	** Add more features to be dropped
-	** Change Activation functions
+	**Increase epochs
+	**Add more features to be dropped
+	**Change Activation functions
 
 3. **Summary**: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
 
