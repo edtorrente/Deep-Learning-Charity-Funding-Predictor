@@ -95,7 +95,7 @@ Attempt1: Dropping more columns:
 Attempt2: Add neurons to hidden layers and add more layers.:
 ![attempt2.jpg](https://github.com/edtorrente/Deep-Learning-Charity-Funding-Predictor/blob/main/Images/attempt2.JPG)
 ---
-**Attempt3: Change activation layer at the output to "tanh".:
+**Attempt3: Change activation layer at the output to "tanh".:**
 ![attempt3.jpg](https://github.com/edtorrente/Deep-Learning-Charity-Funding-Predictor/blob/main/Images/attempt3.JPG)
 
 
